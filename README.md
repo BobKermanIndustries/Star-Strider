@@ -27,6 +27,7 @@ This mod adds multiple parts for you to make the Star Strider spacecraft, with m
 - Cryo Tanks: https://forum.kerbalspaceprogram.com/topic/195042-112x-cryotanks-liquid-hydrogen-storage-and-management-july-21/
 - DeployableEngines: https://github.com/KSPModStewards/DeployableEngines/releases
 - Module Manager: https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/
+- Simple Adjustable Fairings: https://forum.kerbalspaceprogram.com/topic/159101-1112-simple-adjustable-fairings/
 - SmokeScreen: https://forum.kerbalspaceprogram.com/topic/64987-18x-110x-smokescreen-2814-extended-fx-plugin-18-april-2020/
 - Staged Animation: https://forum.kerbalspaceprogram.com/topic/202317-18-staged-animation-mini-plugin-v20/
 - Waterfall: https://forum.kerbalspaceprogram.com/topic/196309-112x-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-october-9/
