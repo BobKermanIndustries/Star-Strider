@@ -1,4 +1,4 @@
-Star Strider | New Stock-alike Crew Spacecraft | v0.9.0
+Star Strider | New Stock-alike Crew Spacecraft | v0.9.1
 
 This mod adds multiple parts for you to make the Star Strider spacecraft, with many part switches to allow for kitbashing too. This mod is heavily inspired by this concept by Maciej Rebisz (https://www.artstation.com/artwork/8emN3n)
 
